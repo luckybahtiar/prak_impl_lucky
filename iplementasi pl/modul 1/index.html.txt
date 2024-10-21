@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<h1>Welcome to Software Implementation Class</h1>
+<h3>lucky</h3>
+=======
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Welcome to Software Implementation Class</h1>
+<h3>By Herdi Ashaury</h3>
+<section>
+Let's Learn with fun!
+</section>
+</body>
+</html>
+>>>>>>> alternate_universe
+
+ini yg di remote
+
